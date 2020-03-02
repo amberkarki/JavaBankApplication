@@ -1,5 +1,5 @@
 # ***JavaBankApplication***
-# Simple Java Console out  Banking Appliation 
+# Simple Java Console output  Banking Appliation 
 # Where User can:
 # Create an Account
 # Deposit money into the Account 
